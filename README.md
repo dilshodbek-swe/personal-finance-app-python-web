@@ -116,7 +116,7 @@ server/
 
 1. Navigate to the backend directory:
 ```
-cd backend
+cd server
 ```
 
 2. Create a virtual environment:
